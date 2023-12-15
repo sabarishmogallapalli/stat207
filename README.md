@@ -39,3 +39,6 @@ Feel free to look around my repository to see my projects.
 ## [Lab 12](https://github.com/sabarishmogallapalli/stat207/tree/sabarishmogallapalli-lab-12)  
 [Lab 12 - Group: Predicting Airbnb Superhost Status](https://github.com/sabarishmogallapalli/stat207/blob/lab_12/lab_12_group.ipynb)    
 [Lab 12 - Individual: Classifying Airbnb Superhost Status](https://github.com/sabarishmogallapalli/stat207/blob/lab_12/lab_12_individual.ipynb)    
+## [Mini Project 1](https://github.com/sabarishmogallapalli/stat207/tree/mini_project_1)  
+## [Mini Project 2](https://github.com/sabarishmogallapalli/stat207/tree/mini_project_2)  
+## [Final Project](https://github.com/sabarishmogallapalli/stat207/tree/final_project)  
